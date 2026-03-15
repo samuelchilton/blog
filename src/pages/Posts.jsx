@@ -2,11 +2,7 @@ import { useState, useEffect } from 'react'
 import PostCard from '../components/PostCard'
 
 const POST_FILES = [
-  'example-post',
-  'rust-for-web',
-  'terminal-setup',
-  'simplicity',
-  'hiking-and-code'
+  'example-post'
 ]
 
 export default function Posts() {

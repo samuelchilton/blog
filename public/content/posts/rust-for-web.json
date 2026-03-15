@@ -1,6 +1,0 @@
-{
-  "id": "rust-for-web",
-  "title": "Why I'm Exploring Rust for Web Development",
-  "date": "2024-03-10",
-  "body": "I've been writing JavaScript for years, but recently I've started exploring Rust for backend services. The learning curve is steep, but the payoff in performance and reliability is real.\n\nWhat drew me in was the ownership model. Once you internalize it, entire categories of bugs just disappear. No more null pointer exceptions, no more data races.\n\nI'm currently building a small API server with Axum, and the experience has been surprisingly pleasant. The ecosystem is maturing quickly."
-}
