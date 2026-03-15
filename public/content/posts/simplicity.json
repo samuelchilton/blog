@@ -1,0 +1,6 @@
+{
+  "id": "simplicity",
+  "title": "In Defense of Boring Technology",
+  "date": "2024-02-15",
+  "body": "There's a constant temptation in our industry to reach for the newest framework, the latest paradigm. But I've learned to resist it.\n\nThe most reliable systems I've worked on were built with boring technology. PostgreSQL, not the newest distributed database. Server-rendered HTML, not a complex SPA. Cron jobs, not a sophisticated job queue.\n\nBoring technology is boring because it's well-understood. The edge cases are documented. The failure modes are known. When something goes wrong at 3am, you can actually fix it.\n\nThis doesn't mean never adopting new tools. It means being intentional about when the complexity is worth it."
+}

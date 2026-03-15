@@ -1,0 +1,8 @@
+{
+  "id": "example-link",
+  "url": "https://vitejs.dev/guide/",
+  "title": "Getting Started with Vite",
+  "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.",
+  "image": "https://vitejs.dev/og-image.png",
+  "date": "2024-03-15"
+}

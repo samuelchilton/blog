@@ -1,0 +1,6 @@
+{
+  "id": "example-post",
+  "title": "Welcome to My Blog",
+  "date": "2024-03-15",
+  "body": "Hello and welcome to my personal blog! I'm Sam, a software engineer based in the Pacific Northwest.\n\nThis is where I'll be sharing my thoughts on software development, interesting projects I'm working on, and various other topics that catch my attention.\n\nI built this blog using React and Vite, with a simple JSON-based content system. It's minimal by design - no databases, no CMS, just static files that are easy to maintain and deploy.\n\nStay tuned for more posts coming soon!"
+}

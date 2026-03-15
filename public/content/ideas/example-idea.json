@@ -1,0 +1,6 @@
+{
+  "id": "example-idea",
+  "title": "Local-first applications",
+  "date": "2024-03-15",
+  "body": "Been thinking about the local-first movement lately. The idea of applications that work offline-first and sync when possible seems like the right approach for many use cases. CRDTs are fascinating for handling merge conflicts automatically."
+}

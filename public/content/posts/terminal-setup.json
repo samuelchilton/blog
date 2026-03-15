@@ -1,0 +1,6 @@
+{
+  "id": "terminal-setup",
+  "title": "My Terminal Setup in 2024",
+  "date": "2024-02-28",
+  "body": "I spend most of my day in the terminal, so I've put some effort into making it comfortable. Here's what I'm currently using.\n\nI switched from iTerm2 to Ghostty a few months ago and haven't looked back. It's fast, minimal, and the configuration is straightforward.\n\nFor my shell, I'm still on zsh with a pretty minimal setup. I use starship for the prompt, which gives me git status and language versions without any performance hit.\n\nThe key tools I reach for daily: fzf for fuzzy finding, ripgrep for searching, and zoxide for directory jumping. These three have probably saved me hundreds of hours."
+}

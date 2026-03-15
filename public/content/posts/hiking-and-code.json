@@ -1,0 +1,6 @@
+{
+  "id": "hiking-and-code",
+  "title": "What Hiking Taught Me About Debugging",
+  "date": "2024-01-20",
+  "body": "Living in the Pacific Northwest means easy access to incredible trails. I try to get out most weekends, and I've noticed some parallels between navigating trails and debugging code.\n\nWhen you're lost on a trail, the instinct is to keep moving, to try to find your way through. But the better approach is to stop, look around, and backtrack to the last known point.\n\nDebugging is the same. When something breaks, the temptation is to start changing things, adding logs everywhere, trying random fixes. But usually it's better to pause, understand the system, and trace back to where things last worked.\n\nBoth activities reward patience and careful observation over frantic action."
+}
