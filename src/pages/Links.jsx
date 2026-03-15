@@ -12,7 +12,7 @@ export default function Links() {
   useEffect(() => {
     Promise.all(
       LINK_FILES.map(file =>
-        fetch(`/content/links/${file}.json`).then(res => res.json())
+        fetch(`${import.meta.env.BASE_URL}content/links/${file}.json`).then(res => res.json())
       )
     )
       .then(data => {

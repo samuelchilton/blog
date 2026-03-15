@@ -12,7 +12,7 @@ export default function Ideas() {
   useEffect(() => {
     Promise.all(
       IDEA_FILES.map(file =>
-        fetch(`/content/ideas/${file}.json`).then(res => res.json())
+        fetch(`${import.meta.env.BASE_URL}content/ideas/${file}.json`).then(res => res.json())
       )
     )
       .then(data => {

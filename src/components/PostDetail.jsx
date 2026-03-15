@@ -7,7 +7,7 @@ export default function PostDetail() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    fetch(`/content/posts/${id}.json`)
+    fetch(`${import.meta.env.BASE_URL}content/posts/${id}.json`)
       .then(res => {
         if (!res.ok) throw new Error('Post not found')
         return res.json()

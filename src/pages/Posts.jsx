@@ -12,7 +12,7 @@ export default function Posts() {
   useEffect(() => {
     Promise.all(
       POST_FILES.map(file =>
-        fetch(`/content/posts/${file}.json`).then(res => res.json())
+        fetch(`${import.meta.env.BASE_URL}content/posts/${file}.json`).then(res => res.json())
       )
     )
       .then(data => {
