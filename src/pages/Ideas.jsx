@@ -2,7 +2,10 @@ import { useState, useEffect } from 'react'
 import IdeaCard from '../components/IdeaCard'
 
 const IDEA_FILES = [
-  'example-idea'
+  'example-idea',
+  'test',
+  'foo',
+  'idea'
 ]
 
 export default function Ideas() {
