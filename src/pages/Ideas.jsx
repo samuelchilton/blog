@@ -2,7 +2,8 @@ import { useState, useEffect } from 'react'
 import IdeaCard from '../components/IdeaCard'
 
 const IDEA_FILES = [
-  'beyond-a-certain-point-governments-are-certain-to-nationalize-ai'
+  'beyond-a-certain-point-governments-are-certain-to-nationalize-ai',
+  'ideas-and-taste-will-be-more-important-than-skills'
 ]
 
 export default function Ideas() {
