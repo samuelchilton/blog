@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import IdeaCard from '../components/IdeaCard'
 
-const IDEA_FILES = [,
+const IDEA_FILES = [
   'beyond-a-certain-point-governments-are-certain-to-nationalize-ai'
 ]
 
